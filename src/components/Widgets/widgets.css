@@ -1,0 +1,10 @@
+.widgets {
+  width: 340px;
+  margin: 20px;
+  flex: 1;
+  justify-self: center;
+}
+.fb-page {
+  width: 100%;
+  border: none;
+}

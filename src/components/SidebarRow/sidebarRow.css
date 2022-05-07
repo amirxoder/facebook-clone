@@ -1,0 +1,22 @@
+.sidebarRow {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  cursor: pointer;
+  justify-content: flex-start;
+  border-radius: 10px;
+  gap: 20px;
+}
+
+.sidebarRow:hover {
+  background-color: lightgray;
+}
+
+.sidebarRow > h4 {
+  font-weight: 600;
+}
+
+.sidebarRow > .icon {
+  font-size: xx-large;
+  color: #2e81f4;
+}
